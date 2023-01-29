@@ -1,4 +1,4 @@
-FROM datamechanics/spark:2.4.7-hadoop-3.1.0-java-8-scala-2.11-python-3.7-dm17
+FROM datamechanics/spark:3.2.1-hadoop-3.3.1-java-11-scala-2.12-python-3.8-dm18
 
 USER root
 
